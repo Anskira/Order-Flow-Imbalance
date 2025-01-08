@@ -35,7 +35,10 @@ cd ofi-crossimpact
    ```
 
 3. Open the notebook for the respective stocks and run the cells.
-4. Because of memory restrictions I have grouped the stocks into different notebooks, if you want to consider all the stocks at once, remove the break statement from the cell that imports the respective stock's CSV file.
+4. Import all the stocks CSV's by running 'Data_import.ipynb', it will generate CSV files
+5. Download these files and provide the path to the CSV files in the 'OFI_calculation.ipynb' notebook
+6. Because of memory restrictions I have grouped the stocks into different notebooks, if you want to consider all the stocks at once, remove the break statement from the cell that imports the respective stock's CSV file.
+
 
 ##  Summary of Findings
 -  Contemporaneous Impact Analysis:
