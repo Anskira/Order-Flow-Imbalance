@@ -14,7 +14,7 @@ git clone https://github.com/yourusername/Order-Flow_Imbalance.git
 cd ofi-crossimpact
 ```
 
-### Set Up the Environment
+### Install the required packages
 
    ```bash
    pip install -r requirements.txt
